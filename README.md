@@ -2,7 +2,7 @@
 **`Estudante de Ciência da Computação`**
 
 ### ✨ Sobre Mim 
-#### Me chamo Marcella Lins, tenho 19 anos, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB)
+#### Me chamo Marcella Lins, tenho 20 anos, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB)
 
   
 ### 🤖 Linguagens e Tecnologias
